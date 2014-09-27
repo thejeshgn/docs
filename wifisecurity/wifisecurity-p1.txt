@@ -1,0 +1,38 @@
+Government of India
+Ministry of Communications 8: IT
+Department of Telecommunications
+Sanchar Bhawan. 20. Ashoka Road. New Delhi - 110 001
+(DS-Cell) .
+No. Dated: 23.02. 2009
+
+To
+
+All Internet Service Providers
+
+Subject: Instructions under the Internet Service Licence regarding
+provision of Wi-Fi Internet service under delicensed frequency
+
+band
+
+In the recent past concerns have been raised that Wi-Fi Networks were
+being misused by anti-social elements. Insecure Wi-Fi networks are capable of
+being misused without any trail of user at a later date. In order to address the
+issue related to insecure Wi-Fi network, all the Internet Service providers are
+hereby instructed to follow the following procedure for the secure use of Wi-Fi
+services under the delicensed frequency band in the interest of security of the
+
+nation with immediate effect:
+
+(I) Internet services (wired/wireless) provided by Licencee to new
+
+am
+Licencee will ensure a registered and secure Internet service
+
+I including Wi?Fi connectivity through user Login ID and
+password to all the subscribers with central authentication
+mechanism.
+
+- Licencee shall deploy suitable Customer Premises Equipment
+
+(CPE) for wired wireless internet connectivity at subscriber
+

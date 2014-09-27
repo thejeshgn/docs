@@ -1,0 +1,36 @@
+end, keeping in View the further deployment of Wi-Fi
+connectivity for implementing the above.
+
+Licencee shall ensure that unique user ID and Password do not
+have provisions for simultaneous multiple logins. Licencee
+may give more than one user ID and Password to a single
+subscriber for multiple usage for his internet account.
+
+Licencee shall put a clause in Subscriber Agreement of new
+subscribers that any Wi-Fi connectivity deployed by subscriber
+has to be activated only after it is registered for centralized
+
+authentication with the Licencee.
+
+Wi-Fi services provided at public places i.e Hotels, Restaurant,
+Airports Malls, Shops, Railway Stations through hotspot.
+
+Licencee shall create bulk Login IDs at each Wi?Fi hotspot
+location for controlled distribution. The authentication shall be
+done at a centralized server only which could be a POP
+location of the service provider.
+
+Licencee or its Franchisee shall register the Subscribers for
+providing temporary Login ID and password for the use of
+public Wi-Fi spot through either of the following methods:
+
+a. Retaining a copy of Photo Identity of the subscriber
+with Licencee which shall be preserved by the Licencee
+for a period of one year.
+
+b. Provisioning of Login?ID and Password through SMS
+on subscriber?s mobile phone through automated
+process and keeping mobile number of subscriber as the
+
+identity of the internet subscriber with reference to
+
